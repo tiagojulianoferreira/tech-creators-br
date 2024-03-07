@@ -101,3 +101,23 @@ www.youtube.com/@DevsJavaGirlBR
 29.642 visualizações
 Inscreveu-se em 30 de mar. de 2018
 
+# [Attekita Dev](https://www.youtube.com/c/AttekitaDev)
+Engenheira de software especialista em aplicativos e games, com mais de 12 anos de experiência e 4 prêmios de reconhecimento nacional junto à Funbites Games Studio. Atuou por quase 10 anos como freelancer para equipes multinacionais e possui mais de 20 aplicativos publicados na App Store.
+
+Em 2022 esteve na lista dos 50 hackers to follow, foi indicada para o prêmio internacional "Women that build" e entrou para o time LinkedIn Creators, sendo uma influenciadora ativa nessa rede.
+
+Atualmente atua como Engenheira iOS na Riot Games pela X-team e compartilha conteúdo no canal Attekita Dev onde impacta em suas redes sociais mais de 100 mil pessoas. 
+
+Acredita que podemos mudar o mundo com o poder da informação!
+
+É embaixadora da Cubos Academy e Backfront Academy
+
+http://www.attekita.com
+
+244 mil inscritos
+379 vídeos
+9.127.894 visualizações
+Inscreveu-se em 2 de jun. de 2014
+Brasil
+
+
