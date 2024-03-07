@@ -81,3 +81,23 @@ Wesley Milan
 [Descubra como configurar o NGinx: AULA COMPLETA com dicas de segurança e...](https://www.notion.so/Descubra-como-configurar-o-NGinx-AULA-COMPLETA-com-dicas-de-seguran-a-e-bc2fd8874e2a404091e1874cc37a2cc1?pvs=21)
 
 [Perguntas possíveis ](https://www.notion.so/Perguntas-poss-veis-da0bddef55104899a531fd3059db2204?pvs=21)
+
+
+# [Devs JavaGirl BR](www.youtube.com/@DevsJavaGirlBR)
+Somos um grupo de mulheres que desenvolvem em Java e desejam aperfeiçoar skills técnicos, melhorar sua segurança com a tecnologia.
+Somos mulheres que estão aprendendo Java  somos mulheres que estão iniciando a carreira ou já estamos seniores nesta área.
+Sabemos que podemos aprender e ensinar e que juntas somos mais fortes!
+
+QUER PARTICIPAR DA COMUNIDADE?
+
+ACESSA NOSSAS REDES SOCIAIS!
+https://twitter.com/devsjavagirl
+https://www.instagram.com/devsjavagirls/
+https://www.meetup.com/Devs-Java-Girl/
+
+www.youtube.com/@DevsJavaGirlBR
+1,63 mil inscritos
+39 vídeos
+29.642 visualizações
+Inscreveu-se em 30 de mar. de 2018
+
