@@ -120,4 +120,30 @@ http://www.attekita.com
 Inscreveu-se em 2 de jun. de 2014
 Brasil
 
+# [Paulo Kretcheu](https://www.youtube.com/user/kretcheu2001)
 
+- Nesse canal você encontra vídeos sobre redes, softwares livres, GNU/Linux e Debian.
+- O nosso propósito é ajudar você a aprender de verdade sobre tudo isso.
+- Acho tão importante mudar a mentalidade de aprender que fiz até um vídeo sobre isso:  o link está aí: https://www.youtube.com/watch?v=z5aU17DPYLY
+
+- Todo o material é livre e eu organizei os vídeos em várias playlists:
+  - Redes
+  - Curso GNU/Linux
+  - Tutoriais
+  - Solução de problemas
+
+  - Um papo com kretcheu
+    Um papo mais descontraído sobre temas correlatos, com a minha opinião.
+
+- Espero que você aproveite e aprenda bastante.
+
+- Para participar da comunidade fizemos um grupo no Telegram: t.me/cursognu
+  Para você tirar dúvidas, compartilhar seu conhecimento e aprender com o pessoal.
+
+- As quintas-feiras 19h tem aula de tira-dúvidas ao vivo pelo Jitsi.
+www.youtube.com/@kretcheu2001
+77,8 mil inscritos
+296 vídeos
+4.257.846 visualizações
+Inscreveu-se em 15 de mai. de 2007
+Brasil
