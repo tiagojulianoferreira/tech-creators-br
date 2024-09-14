@@ -2,6 +2,7 @@
 Repositório de criadores de conteúdo educativo em TI
 
 
+
 # Influenciadores e Espaços
 
 ## Jeferson Fernandes - [LinuxTips](https://www.linuxtips.io/quem-somos)
@@ -147,3 +148,10 @@ www.youtube.com/@kretcheu2001
 4.257.846 visualizações
 Inscreveu-se em 15 de mai. de 2007
 Brasil
+
+# [Gustavo Caetano](https://www.youtube.com/@oguscaetano)
+Conteúdos de tecnologia com um pequenino toque de humor.
+42,7 mil inscritos
+660 vídeos
+2.201.323 visualizações
+Inscreveu-se em 2 de set. de 2011
