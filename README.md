@@ -156,7 +156,7 @@ Conteúdos de tecnologia com um pequenino toque de humor.
 2.201.323 visualizações
 Inscreveu-se em 2 de set. de 2011
 
-# [Giulia Bordignon](https://www.youtube.com/@sspacecoding)
+# [Giulia Bordignon - spacecoding ](https://www.youtube.com/@sspacecoding)
 E-mail
 contato@spacecoding.dev
 linkedin.com/in/spacecoding
