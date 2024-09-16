@@ -155,3 +155,18 @@ Conteúdos de tecnologia com um pequenino toque de humor.
 660 vídeos
 2.201.323 visualizações
 Inscreveu-se em 2 de set. de 2011
+
+# Giulia Bordignon
+E-mail
+contato@spacecoding.dev
+linkedin.com/in/spacecoding
+Aqui você encontra conteúdo voltado para programação na prática e dicas para facilitar sua carreira de desenvolvimento de software. Vou compartilhar aulas, dicas e truques para ajudar você no processo de aprendizado da programação, e acompanhar o que é utilizado e demandado pelo mercado de trabalho. 
+
+Se você é iniciante, este é o lugar certo para aprender e se atualizar. 
+www.youtube.com/@sspacecoding
+10,6 mil inscritos
+127 vídeos
+896.883 visualizações
+Inscreveu-se em 5 de mai. de 2020
+
+
