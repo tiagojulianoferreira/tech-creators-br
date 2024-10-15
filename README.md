@@ -187,4 +187,11 @@ Aqui nesse canal compartilho um pouco sobre a área de T.I e do meu conhecimento
 153 vídeos
 2.578.657 visualizações
 Inscreveu-se em 21 de ago. de 2011
+[Fernanda Kipper | Dev](https://www.youtube.com/@kipperdev)
+120 mil inscritos
+181 vídeos
+5.203.899 visualizações
+Inscreveu-se em 24 de jul. de 2012
+Brasil
+
 
