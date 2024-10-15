@@ -192,6 +192,16 @@ Inscreveu-se em 21 de ago. de 2011
 181 vídeos
 5.203.899 visualizações
 Inscreveu-se em 24 de jul. de 2012
-Brasil
+
+# [Dan Vitoriano](https://www.youtube.com/@danvitoriano/videos)
+🏳️‍🌈 LinkedIn Top Voice. Organizador da Orgulho Tech Conf. Ensino programação e tecnologia. 
+🔥Professor de programação e 
+Podcaster no Tech 40+ 
+🚀 Compartilho sobre programação, tecnologia e carreira. Conheça minha iniciativa para incentivar pessoas com mais de 40 anos na programação e tecnologia: https://www.devs40mais.com.br
+🔥 Meu site: www.danvitoriano.com.br
+3,43 mil inscritos
+259 vídeos
+303.572 visualizações
+Inscreveu-se em 18 de jul. de 2011
 
 
