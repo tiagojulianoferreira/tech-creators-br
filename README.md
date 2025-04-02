@@ -15,7 +15,7 @@ O ponto relevante da iniciativa diz respeito às **ações afirmativas**. Exempl
 
 ---
 
-## Eduardo Mendes - [Live de Python](https://apoia.se/livedepython)
+## Eduardo Mendes - [Live de Python](https://apoia.se/livedepython) - Q
 
 Criação: 25 de out. de 2011       2.422.206 visualizações
 
@@ -23,7 +23,7 @@ O projeto é nichado em torno da pilha de desenvolvimento de software na linguag
 
 ---
 
-## Bruno Rocha - [CodeShowBR](https://codeshow.com.br/about/)
+## Bruno Rocha - [CodeShowBR](https://codeshow.com.br/about/) - Q
 
 Criação: 20 de dez. de 2007     445.742 visualizações
 
