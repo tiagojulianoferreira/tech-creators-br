@@ -15,7 +15,7 @@ O ponto relevante da iniciativa diz respeito às **ações afirmativas**. Exempl
 
 ---
 
-## Eduardo Mendes - [Live de Python](https://apoia.se/livedepython) - Q
+## Eduardo Mendes - [Live de Python](https://apoia.se/livedepython) - QM
 
 Criação: 25 de out. de 2011       2.422.206 visualizações
 
@@ -23,7 +23,7 @@ O projeto é nichado em torno da pilha de desenvolvimento de software na linguag
 
 ---
 
-## Bruno Rocha - [CodeShowBR](https://codeshow.com.br/about/) - Q
+## Bruno Rocha - [CodeShowBR](https://codeshow.com.br/about/) - QM
 
 Criação: 20 de dez. de 2007     445.742 visualizações
 
@@ -59,7 +59,7 @@ Professora do COLTEC/UFMG e Doutora em Ciência da Computação, *Vivi Mota* é 
 
 coletado em 03/06/23
 
-# DistroHopper -
+# DistroHopper - QM
 
 Num vídeo sobre IPFS ele cita o comunismo e o movimento punk.
 
