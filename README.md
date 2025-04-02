@@ -169,7 +169,7 @@ www.youtube.com/@sspacecoding
 896.883 visualizações
 Inscreveu-se em 5 de mai. de 2020
 
-# [Malu Dev](https://www.youtube.com/@DevMalu)
+# [Malu Dev](https://www.youtube.com/@DevMalu) - QE
 13,4 mil inscritos
 90 vídeos
 312.900 visualizações
