@@ -121,7 +121,7 @@ http://www.attekita.com
 Inscreveu-se em 2 de jun. de 2014
 Brasil
 
-# [Paulo Kretcheu](https://www.youtube.com/user/kretcheu2001)
+# [Paulo Kretcheu](https://www.youtube.com/user/kretcheu2001) - QT
 
 - Nesse canal você encontra vídeos sobre redes, softwares livres, GNU/Linux e Debian.
 - O nosso propósito é ajudar você a aprender de verdade sobre tudo isso.
