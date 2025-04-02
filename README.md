@@ -193,7 +193,7 @@ Inscreveu-se em 21 de ago. de 2011
 5.203.899 visualizações
 Inscreveu-se em 24 de jul. de 2012
 
-# [Dan Vitoriano](https://www.youtube.com/@danvitoriano/videos)
+# [Dan Vitoriano](https://www.youtube.com/@danvitoriano/videos) - QE
 🏳️‍🌈 LinkedIn Top Voice. Organizador da Orgulho Tech Conf. Ensino programação e tecnologia. 
 🔥Professor de programação e 
 Podcaster no Tech 40+ 
