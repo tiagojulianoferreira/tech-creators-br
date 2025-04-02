@@ -179,7 +179,7 @@ Inscreveu-se em 19 de mai. de 2023
 312.900 visualizações
 Inscreveu-se em 19 de mai. de 2023
 
-# [Code By Duda](https://www.youtube.com/watch?v=AuGcjz68Lt4)
+# [Code By Duda](https://www.youtube.com/watch?v=AuGcjz68Lt4) - QE
 Sobre mim! 
 Oi! Me chamo Eduarda, sou engenheira de software por formação e também desenvolvedora Full Stack.
 Aqui nesse canal compartilho um pouco sobre a área de T.I e do meu conhecimento também, tanto da faculdade de Engenharia de Software, quanto do mercado de trabalho!
