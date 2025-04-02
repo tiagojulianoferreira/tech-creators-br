@@ -149,7 +149,7 @@ www.youtube.com/@kretcheu2001
 Inscreveu-se em 15 de mai. de 2007
 Brasil
 
-# [Gustavo Caetano](https://www.youtube.com/@oguscaetano)
+# [Gustavo Caetano](https://www.youtube.com/@oguscaetano) - QE
 Conteúdos de tecnologia com um pequenino toque de humor.
 42,7 mil inscritos
 660 vídeos
