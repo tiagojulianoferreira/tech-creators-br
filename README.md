@@ -39,7 +39,7 @@ Guto Carvalho - [https://gutocarvalho.net/](https://gutocarvalho.net/)
 
 Gomex - [https://gomex.me/about/](https://gomex.me/about/) - [MentoriaDevOps](https://mentoriadevops.io/)
 
-Livre Labs (é professor do IF?)
+Livre Labs (é professor do IF?) - QT
 
 Nina da Hora  [https://www.youtube.com/@ninadahora2961](https://www.youtube.com/@ninadahora2961)
 
